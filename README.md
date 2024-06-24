@@ -11,15 +11,15 @@ Return the maximum number of customers that can be satisfied throughout the day.
 
 Example 1:
 
-Input: customers = [1,0,1,2,1,1,7,5], grumpy = [0,1,0,1,0,1,0,1], minutes = 3</br>
-Output: 16</br>
-Explanation: The bookstore owner keeps themselves not grumpy for the last 3 minutes. </br>
-The maximum number of customers that can be satisfied = 1 + 1 + 1 + 1 + 7 + 5 = 16.
+>Input: customers = [1,0,1,2,1,1,7,5], grumpy = [0,1,0,1,0,1,0,1], minutes = 3</br>
+>Output: 16</br>
+>Explanation: The bookstore owner keeps themselves not grumpy for the last 3 minutes. </br>
+>The maximum number of customers that can be satisfied = 1 + 1 + 1 + 1 + 7 + 5 = 16.
 
 Example 2:
 
-Input: customers = [1], grumpy = [0], minutes = 1</br>
-Output: 1
+>Input: customers = [1], grumpy = [0], minutes = 1</br>
+>Output: 1
 
 My Solution Analysis:
 
